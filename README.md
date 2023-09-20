@@ -9,9 +9,13 @@ This repository contains a simple news application built using [React](https://r
 - Read the full article by clicking on a news card.
 - Responsive design for both desktop and mobile devices.
 
-## Demo
+## Technologies Used
+- React: A JavaScript library for building user interfaces.
+- News API: An API that provides access to news articles from various sources.
+- CSS: Used for styling the application.
+- Axios: A promise-based HTTP client for making API requests.
 
-You can see a live demo of the application hosted on [GitHub Pages](https://nischay-chauhan.github.io/news).
+
 
 ## Installation
 
@@ -21,3 +25,11 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/nischay-chauhan/news.git
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix: git checkout -b feature-name
+Make your changes and commit them: git commit -m 'Add new feature'
+Push to the branch: git push origin feature-name
+Create a pull request on the GitHub repository.
